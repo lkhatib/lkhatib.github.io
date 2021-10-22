@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Lora Khatib"
-  avatar           : "/images/lora.png"
-  bio              : "Senior Research Technician <br> Brain Mechanisms of Pain and Health Laboratory <br> UC San Diego School of Medicine"
+  avatar           : "images/lora.png"
+  bio              : "Senior Research Technician"
   location         : "San Diego, CA"
-  employer         :
+  employer         : "UC San Diego School of Medicine"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xeJ7YeYAAAAJ&hl=en"
   email            :
