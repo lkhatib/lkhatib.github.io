@@ -7,12 +7,10 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<b>University of California, Berkeley</b>
+Bachelor of Arts Degree in Psychology, May 2018
 
 Work experience
 ======
