@@ -9,15 +9,31 @@ redirect_from:
 
 Education
 ======
-<b>University of California, Berkeley</b>
+<b>University of California, Berkeley</b><br>
 Bachelor of Arts Degree in Psychology, May 2018
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<b>University of California San Diego School of Medicine</b> <i> September 2020 to present</i>
+Department of Anesthesiology
+Brain Mechanisms of Pain and Health Laboratory
+<b>Role:</b> Senior Research Technician
+<b>Mentor:</b> Fadel Zeidan, Ph.D.
+
+<b>Brain mechanisms supporting mindfulness-based chronic pain relief</b>:
+National Center for Complementary and Integrative Health-funded (5 R01 AT009693-05)
+randomized clinical trial investigating the brain mechanisms supporting the direct attenuation
+of chronic low back pain by mindfulness meditation as compared to placebo-mindfulness
+meditation. Activities on this project include but are not limited to:
+  * Designing the experiment
+  * Data collection via quantitative sensory testing
+  * Psychophysical procedure of the radiculopathy inducing straight leg raise test
+  * Certified MRI scanner technician
+  * Supervise therapeutic interventions
+  * Mentored and trained lab personnel to perform data collection
+  * General linear modeling of behavioral data
+  * Functional brain imaging analyses
+  * Patient recruitment and screening
 
 * Fall 2015: Research Assistant
   * Github University
