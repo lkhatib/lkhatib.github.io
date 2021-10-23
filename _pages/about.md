@@ -1,3 +1,6 @@
+<img src='https://lkhatib.github.io/images/nifti.gif' width='125'>
+
+
 ---
 permalink: /
 title: "About Me"
@@ -7,9 +10,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
 
 
 
