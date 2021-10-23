@@ -1,7 +1,7 @@
 ---
 title: "Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement: Role of Educational Stage and Disability"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2.md
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '<b>Abstract</b> Visuomotor integration (VMI) is the ability to coordinate visual perception and motor
 functioning. Measures of VMI are commonly used to assess children’s readiness for academic
 learning. Attention and investments towards VMI development are mainly focused on early
