@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<img src='https://lkhatib.github.io/images/nifti.gif' width='125'> <br> About Me"
+title: "<img src='https://lkhatib.github.io/images/nifti.gif' width='125'> <br> <br> About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
