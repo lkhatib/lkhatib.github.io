@@ -2,7 +2,7 @@
 title: "Crime and Gambling Disorders: A systematic review"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt:
+excerpt: ''
 date: 2018-10-01
 venue: 'Journal of Gambling Studies'
 paperurl: 'http://lkhatib.github.io/files/Crime_Gambling_Disorders.pdf'
