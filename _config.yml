@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lora Khatib"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/lkhatib/lkhatib.github.io/blob/master/images/profile.png"
   bio              : "Senior Research Technician"
   location         : "San Diego, CA"
   employer         :
