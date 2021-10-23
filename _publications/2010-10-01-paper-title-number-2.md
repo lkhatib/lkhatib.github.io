@@ -34,4 +34,4 @@ reading achievement. Implications and future research directions are discussed.'
 
 [Download paper here](http://lkhatib.github.io/files/Meta-analysis_Relation_between_Visuomotor_Integration_and_Academic_Achievement.pdf)
 
-Recommended citation: Khatib, L., Li, Y., Geary, D., Popov, V., (2021). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>. (Revisions submitted).'
+Recommended citation: Khatib, L., Li, Y., Geary, D., Popov, V., (2021). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>. (Revisions submitted)'
