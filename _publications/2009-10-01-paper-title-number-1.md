@@ -1,23 +1,15 @@
 ---
-title: "The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study"
+title: "Crime and Gambling Disorders: A systematic review"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '<b>Abstract</b> Visuomotor integration (VMI) is the ability to coordinate visual perception and motor
-functioning. Measures of VMI are commonly used to assess children’s readiness for academic
-learning. Attention and investments towards VMI development are mainly focused on early
-learners, but some empirical research indicates sustained relations between VMI and academic
-achievement through middle and high school. To determine the relations between VMI and
-academic achievement, as well as moderating factors, we conducted a multilevel meta-analysis
-using a total of 96 articles and 266 effect sizes published over the past 60 years. The pooled
-effect size revealed moderate correlations between VMI and mathematical (r = .39) and reading
-(r = .34) achievement. Educational stage, disability, and intelligence were significant moderators
-of the relation between VMI and mathematics achievement, whereas educational stage and
-subdomains of reading skills were significant moderators of the relation between VMI and
-reading achievement. Implications and future research directions are discussed.'
-date: 2021-10-01
-venue: 'Journal 1'
-paperurl: 'http://lkhatib.github.io/files/The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence- A Pilot Study.pdf'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '<b>Abstract</b> It is generally believed that there is an instrumental relationship between problem gambling and crime such that some gamblers resort to illegal activity to recoup financial shortfalls resulting from their gambling. However, a clear understanding of the risk factors for the commission of crimes beyond financial stresses is absent in the literature. The aim of this review was to identify the nature of crimes perpetrated by problem gamblers and the factors that contribute to the commission of gambling-related crimes. A systematic review adhering to guidelines outlined in the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement searching eight databases – PsycINFO, Westlaw AU, Heinonline, Legal Source via Ebsco, Legaltrac via Gale, PubMed, Scopus, and Medline – was conducted. A total of 21 papers were included after screening and application of exclusion criteria. All studies examined reported crimes committed by problem gamblers, with a validated assessment tool measuring problem gambling. The review provided evidence that gambling-related crime typically consists of non-violent, income-generating offences. However, it also revealed that problem gamblers may commit violent crimes at a higher than expected rate, which may have been concealed by deliberate and unintentional under-reporting of gambling-related crimes. The causal relationship between problem gambling and violent crime, however, remains uncertain. Based on this review, suggestions are offered for the evaluation of perpetrators of gambling-related crime on a case-by-case basis, to better understand the relationship between gambling and crime and facilitate more frequent application of therapeutic jurisprudence in future.'
+date: 2018-10-01
+venue: 'Journal of Gambling Studies'
+paperurl: 'http://lkhatib.github.io/files/Crime_Gambling_Disorders.pdf'
+#citation: 'Adolphe, A., Khatib, L., van Golde, C., Gainsbury, S.M., Blaszczynski, A., (2018). &quot;Crime and Gambling Disorders: A systematic review.&quot; <i>Journal of Gambling Studies</i>. 35, 395–414.'
 ---
+'<b>Abstract</b> It is generally believed that there is an instrumental relationship between problem gambling and crime such that some gamblers resort to illegal activity to recoup financial shortfalls resulting from their gambling. However, a clear understanding of the risk factors for the commission of crimes beyond financial stresses is absent in the literature. The aim of this review was to identify the nature of crimes perpetrated by problem gamblers and the factors that contribute to the commission of gambling-related crimes. A systematic review adhering to guidelines outlined in the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement searching eight databases – PsycINFO, Westlaw AU, Heinonline, Legal Source via Ebsco, Legaltrac via Gale, PubMed, Scopus, and Medline – was conducted. A total of 21 papers were included after screening and application of exclusion criteria. All studies examined reported crimes committed by problem gamblers, with a validated assessment tool measuring problem gambling. The review provided evidence that gambling-related crime typically consists of non-violent, income-generating offences. However, it also revealed that problem gamblers may commit violent crimes at a higher than expected rate, which may have been concealed by deliberate and unintentional under-reporting of gambling-related crimes. The causal relationship between problem gambling and violent crime, however, remains uncertain. Based on this review, suggestions are offered for the evaluation of perpetrators of gambling-related crime on a case-by-case basis, to better understand the relationship between gambling and crime and facilitate more frequent application of therapeutic jurisprudence in future.'
 
-[Download paper here](http://lkhatib.github.io/files/files/The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence- A Pilot Study.pdf)
+[Download paper here](http://lkhatib.github.io/files/Crime_Gambling_Disorders.pdf)
+
+Recommended citation: Adolphe, A., Khatib, L., van Golde, C., Gainsbury, S.M., Blaszczynski, A., (2018). &quot;Crime and Gambling Disorders: A systematic review.&quot; <i>Journal of Gambling Studies</i>. 35, 395–414.
