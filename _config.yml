@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lora Khatib"
   avatar           : "lora.png"
-  bio              : "Senior Research Technician"
-  location         : "UC San Diego School of Medicine"
+  bio              : "Senior Research Technician <br> UC San Diego <br> School of Medicine"
+  location         : "San Diego, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xeJ7YeYAAAAJ&hl=en"
