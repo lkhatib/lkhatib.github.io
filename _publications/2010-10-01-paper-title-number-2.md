@@ -15,7 +15,7 @@ of the relation between VMI and mathematics achievement, whereas educational sta
 subdomains of reading skills were significant moderators of the relation between VMI and
 reading achievement. Implications and future research directions are discussed.'
 date: 2021
-venue: '<i>Educational Research Review</i> (Revisions Submitted)'
+venue:'<i>Educational Research Review</i> (Revisions Submitted)'
 paperurl: 'Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.pdf'
 citation: 'Khatib, L., Li, Y., Geary, D., Popov, V., (2021). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>. (Revisions submitted).'
 ---
