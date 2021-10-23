@@ -14,11 +14,11 @@ Bachelor of Arts Degree in Psychology, May 2018
 
 Research experience
 ======
-<b>University of California San Diego School of Medicine</b> <i> September 2020 to present</i>
-Department of Anesthesiology
-Brain Mechanisms of Pain and Health Laboratory
-<b>Role:</b> Senior Research Technician
-<b>Mentor:</b> Fadel Zeidan, Ph.D.
+<b>University of California San Diego School of Medicine</b> <i> (September 2020 to present)</i>
+<br>Department of Anesthesiology
+<br>Brain Mechanisms of Pain and Health Laboratory
+<br><b>Role:</b> Senior Research Technician
+<br><b>Mentor:</b> Fadel Zeidan, Ph.D.
 
 <b>Brain mechanisms supporting mindfulness-based chronic pain relief</b>:
 National Center for Complementary and Integrative Health-funded (5 R01 AT009693-05)
