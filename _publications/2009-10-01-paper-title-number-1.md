@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: _publications/The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence- A Pilot Study.pdf
+Under review in Mndfulness
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
