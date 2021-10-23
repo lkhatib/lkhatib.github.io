@@ -128,6 +128,59 @@ population. Activities include:
   * Automated data cleaning, data analyzation, and figure creation via Python
   * Assisted in Institutional Review Board approvals in a timely fashion
 
+<b>University of San Diego</b> <i> (November 2019 to September 2020)</i>
+<br>The Jacobs Institute of Innovation in Education
+<br> VisMO Laboratory
+<br><b>Role:</b> Research Assistant
+<br><b>Mentor:</b> David Barner, Ph.D.
+
+<b>Cognitive development of number acquisition</b>:
+National Science Foundation-funded (#192082) project investigating the cognitive factors
+behind visuospatial skills and mathematics. Work in the lab included:
+  * Designed and conducted experiments with adult and children subjects
+  * Administered visuospatial and visuomotor assessments
+  * Created spatial vocabulary assessments for children
+  * Ran interventions designed to foster visuospatial skills in children
+  * Analyzed study results and prepared manuscripts
+  * First authored a meta-analysis investigating the link between visuomotor integration and 
+  academic achievement (under review)
+  
+  
+<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
+<br>Department of Psychology
+<br>Language and Development Laboratory
+<br><b>Role:</b> Research Assistant
+<br><b>Mentor:</b> Yaoran Li, Ph.D.
+
+<b>Investigating the causal link between visuospatial skills and mathematics</b>:
+National Science Foundation-funded (#192082) project investigating the cognitive factors
+behind visuospatial skills and mathematics. Work in the lab included:
+  * Designed and conducted experiments with adult and children subjects
+  * Administered visuospatial and visuomotor assessments
+  * Created spatial vocabulary assessments for children
+  * Ran interventions designed to foster visuospatial skills in children
+  * Analyzed study results and prepared manuscripts
+  * First authored a meta-analysis investigating the link between visuomotor integration and 
+  academic achievement (under review)
+  
+<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
+<br>Department of Psychology
+<br>Language and Development Laboratory
+<br><b>Role:</b> Research Assistant
+<br><b>Mentor:</b> Yaoran Li, Ph.D.
+
+<b>Investigating the causal link between visuospatial skills and mathematics</b>:
+National Science Foundation-funded (#192082) project investigating the cognitive factors
+behind visuospatial skills and mathematics. Work in the lab included:
+  * Designed and conducted experiments with adult and children subjects
+  * Administered visuospatial and visuomotor assessments
+  * Created spatial vocabulary assessments for children
+  * Ran interventions designed to foster visuospatial skills in children
+  * Analyzed study results and prepared manuscripts
+  * First authored a meta-analysis investigating the link between visuomotor integration and 
+  academic achievement (under review)
+  
+  
  
 Skills
 ======
