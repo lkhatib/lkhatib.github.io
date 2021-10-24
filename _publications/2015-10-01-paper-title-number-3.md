@@ -3,7 +3,6 @@ title: "The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims o
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Manuscript submitted to <i>Mindfulness</i> (Under review)'
-date: 2021-10-01
 paperurl: 'http://lkhatib.github.io/files/Mindfulness-Based_Stress_Reduction_Trauma_Victims_Gun_Violence.pdf'
 citation: 'Khatib, L., Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2021). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>. (Under review).'
 ---
