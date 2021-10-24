@@ -12,7 +12,11 @@ Education
 <b>University of California, Berkeley</b><br>
 Bachelor of Arts Degree in Psychology, May 2018
 
-Research experience
+>**publications**
+
+<details markdown=block>
+<summary markdown=span>Research experience</summary>
+ 
 ======
 <b>University of California San Diego School of Medicine</b> <i> (September 2020 to present)</i>
 <br>Department of Anesthesiology
@@ -179,7 +183,9 @@ behind visuospatial skills and mathematics. Work in the lab included:
   * Analyzed study results and prepared manuscripts
   * First authored a meta-analysis investigating the link between visuomotor integration and 
   academic achievement (under review)
-  
+ 
+ 
+</details>
   
  
 Skills
