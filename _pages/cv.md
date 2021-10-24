@@ -207,41 +207,44 @@ Clinical Experience
   
 <b>Clinical Coordination</b> (September 2020 to present)
 <br>University of California San Diego School of Medicine
+<small>
   * Work daily over the phone and in person with a diverse range of patients including chronic back pain, cancer, phantom limb, and awake craniotomy patients
   * Laboratory and specimen submission, collection, and handling
   * Monitor patient treatment and toxicities 
   * Handle Institutional Review Board submissions and correspondence 
+</small>
   
 <b>Therapist Assistant</b> (January 2018 to May 2018)
 <br>Kidspace Therapy Clinic
-  * Work daily over the phone and in person with a diverse range of patients including chronic back pain, cancer, phantom limb, and awake craniotomy patients
-  * Laboratory and specimen submission, collection, and handling
-  * Monitor patient treatment and toxicities 
-  * Handle Institutional Review Board submissions and correspondence 
+ <small>
+  * Observed and assisted occupational therapists and speech-language pathologists with patients diagnosed with autism spectrum disorder, cerebral palsy, and   down’s syndrome
+  * Helped monitor and record patient’s progress  
+  * Assisted with office duties such as record keeping and data entry
+</small>
    
 
 Publications
 ======
   
-Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. Journal of gambling studies, 35(2), 395-414.
+Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
   
 Manuscripts under review
 ======
 
-<b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2021) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. Under review.
+<b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2021) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. <i> Under review.</i>
 
-<b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (2021) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. Under review.
+<b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (2021) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. <i> Under review.</i>
 
 Manuscripts in preparation
 ======
 
-<b>Khatib L.,</b> Dean J., Riegner G., Oliva V., Gonzalez N., Birenbaum J., Zeidan F., (2021)  The role of endogenous opioids in mindfulness meditation-induced chronic low back pain relief as compared to sham-mindfulness meditation. In preparation.
+<b>Khatib L.,</b> Dean J., Riegner G., Oliva V., Gonzalez N., Birenbaum J., Zeidan F., (2021)  The role of endogenous opioids in mindfulness meditation-induced chronic low back pain relief as compared to sham-mindfulness meditation. <i>In preparation.</i>
 
-<b>Khatib L.,</b> Riegner G., Oliva V.,  Dean J., Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) Resting-state connectivity associated with meditation-induced depressive mood reductions. In preparation.
+<b>Khatib L.,</b> Riegner G., Oliva V.,  Dean J., Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) Resting-state connectivity associated with meditation-induced depressive mood reductions. <i>In preparation.</i>
 
-Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) No Self, No Pain: Mindfulness meditation induced pain relief is driven by thalamic – precunal decoupling. In preparation.
+Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) No Self, No Pain: Mindfulness meditation induced pain relief is driven by thalamic – precunal decoupling. <i>In preparation.</i>
 
-Vieten C., Sprengel M., Rubanovich C., Vahidi P., <b>Khatib L.,</b> Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. In preparation.
+Vieten C., Sprengel M., Rubanovich C., Vahidi P., <b>Khatib L.,</b> Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
 
   
 Conference poster presentations
@@ -256,7 +259,7 @@ Dean J., Posey G., Riegner G., <b> Khatib, L.,</b> Oliva V., Baumgartner J., Jun
 
 Scholarships
 ======
-<b>Benjamin A. Gilman International Scholarship </b> (2017)
+<b>Benjamin A. Gilman International Scholarship </b> (2017)<br>
 Awarded $3,000 to participate in research and study abroad at the University of Sydney 
 
 <b> Berkeley Undergraduate Scholarship </b> (2014 to 2018)          
@@ -271,29 +274,29 @@ Volunteer for a project aiming to expand and improve access to the Coronavirus v
 <b>Autism Spectrum at Cal</b> (August 2016 to May 2018)    
 Coordinated annual fundraisers to raise funds for research on Autism Spectrum Disorder
 
-<b> Berkeley Student Cooperative Womxn’s Circle Leader </b> (August 2016 to May 2018)
+<b> Berkeley Student Cooperative Womxn’s Circle Leader </b> (August 2016 to May 2018)<br>
 Led weekly womxn’s circles where women-identifying individuals could share a safe space for cathartic relief in cooperative housing for low-income, minority students
 
-<b> Arab Student Union</b> (August 2017 to May 2018)
+<b> Arab Student Union</b> (August 2017 to May 2018)<br>
 Member of the Arab Student Union at Cal, an organization aimed to create a safe environment for Arab students and promote a better understanding of Arab history, culture, and language
 
-<b> Getting into Graduate School</b> (August 2015 to May 2016)
+<b> Getting into Graduate School</b> (August 2015 to May 2016)<br>
 Member of the Getting into Graduate School program, an organization aimed to encourage and prepare students to apply to graduate programs
 
-<b> Educational Opportunity Program </b> (August 2014 to May 2018)
+<b> Educational Opportunity Program </b> (August 2014 to May 2018)<br>
 Member of the Educational Opportunity Program, a program providing guidance and support for first-generation, low-income, and underrepresented students
 
   
 Skills
 ======
 
-<b>Neuroimaging:</b> scanner operation (GE and Siemens) | FSL (preprocessing, linear modeling, task-based, resting-state, ICA) | NiLearn (connectivity matrices, linear modeling) | ANTs (brain extraction, segmentation) | fMRIprep
+<b>Neuroimaging:</b> scanner operation (GE and Siemens), FSL (preprocessing, linear modeling, task-based, resting-state, ICA), NiLearn (connectivity matrices, linear modeling), ANTs (brain extraction, segmentation), fMRIprep
 
-<b>Clinical:</b> diagnostic interview (MINI) | software (Clinical Conductor, Velos, EPIC) 
+<b>Clinical:</b> diagnostic interview (MINI), software (Clinical Conductor, Velos, EPIC) 
 
-<b>Programming:</b> Python (NumPy, Pandas, Seaborn) | Shell (unix, scripting)
+<b>Programming:</b> Python (NumPy, Pandas, Seaborn), Shell (unix, scripting)
 
-<b>Data Collection:</b> psychological (REDCap, Qualtrics, Survey Monkey) | physiological (Biopac) | biological data (urine, saliva, stool) | psychophysical (quantitative sensory testing, straight leg raise procedure) | neuropsychological (modified version of the Mini-Mental State Examination, Make a Dice, Paper Folding Test) 
+<b>Data Collection:</b> psychological (REDCap, Qualtrics, Survey Monkey), physiological (Biopac), biological data (urine, saliva, stool), psychophysical (quantitative sensory testing, straight leg raise procedure), neuropsychological (modified version of the Mini-Mental State Examination, Make a Dice, Paper Folding Test) 
 
-<b>Statistical Analysis:</b> SPSS | R | Python
+<b>Statistical Analysis:</b> SPSS, R, Python
 
