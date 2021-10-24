@@ -14,7 +14,7 @@ Bachelor of Arts Degree in Psychology, May 2018
 
 Research experience
 ======
-<b>University of California San Diego School of Medicine</b> <i> (September 2020 to present)</i>
+<b>University of California San Diego School of Medicine</b> (September 2020 to present)
 <br>Department of Anesthesiology
 <br>Brain Mechanisms of Pain and Health Laboratory
 <br><b>Role:</b> Senior Research Technician
@@ -70,7 +70,7 @@ cannabis-induced acute and chronic pain relief. Current work includes:
   
 </details>
 
-<b>University of California San Diego</b> <i> (September 2020 to present)</i>
+<b>University of California San Diego</b> (September 2020 to present)
 <br>Psychedelic and Health Research Initiative
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; Cassandra Vieten, Ph.D.
@@ -91,7 +91,7 @@ on this project include:
 
  </details>
 
-<b>University of California San Diego</b> <i> (September 2020 to present)</i>
+<b>University of California San Diego</b> (September 2020 to present)
 <br>Sanford Institute of Empathy and Compassion
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; William Mobley, MD, Ph.D.
@@ -141,7 +141,7 @@ population. Activities include:
   
   </details>
 
-<b>University of San Diego</b> <i> (November 2019 to September 2020)</i>
+<b>University of San Diego</b> (November 2019 to September 2020)
 <br>The Jacobs Institute of Innovation in Education
 <br> VisMO Laboratory
 <br><b>Role:</b> Research Assistant
@@ -163,7 +163,7 @@ behind visuospatial skills and mathematics. Work in the lab included:
   
  </details>
   
-<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
+<b>University of California, San Diego</b> (August 2019 to September 2020)
 <br>Department of Psychology
 <br>Language and Development Laboratory
 <br><b>Role:</b> Research Assistant
@@ -182,7 +182,7 @@ Work in the lab included:
  
 </details>
   
-<b>University of Sydney</b> <i> (June 2017 to August 2017)</i>
+<b>University of Sydney</b> (June 2017 to August 2017)
 <br>Brain and Mind Centre
 <br>Gambling Treatment and Research Clinic
 <br><b>Role:</b> Research Assistant
@@ -205,14 +205,14 @@ included:
 Clinical Experience
 ======
   
-<b>Clinical Coordination</b> <i> (September 2020 to present)</i>
+<b>Clinical Coordination</b> (September 2020 to present)
 <br>University of California San Diego School of Medicine
   * Work daily over the phone and in person with a diverse range of patients including chronic back pain, cancer, phantom limb, and awake craniotomy patients
   * Laboratory and specimen submission, collection, and handling
   * Monitor patient treatment and toxicities 
   * Handle Institutional Review Board submissions and correspondence 
   
-<b>Therapist Assistant/b> <i> (January 2018 to May 2018)</i>
+<b>Therapist Assistant</b> (January 2018 to May 2018)
 <br>Kidspace Therapy Clinic
   * Work daily over the phone and in person with a diverse range of patients including chronic back pain, cancer, phantom limb, and awake craniotomy patients
   * Laboratory and specimen submission, collection, and handling
