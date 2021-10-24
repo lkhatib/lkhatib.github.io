@@ -12,16 +12,16 @@ Education
 <b>University of California, Berkeley</b><br>
 Bachelor of Arts Degree in Psychology, May 2018
 
-<large>
-<details markdown=block>
-<summary markdown=span><b>Research experience</b></summary>
- 
+Research experience
 ======
 <b>University of California San Diego School of Medicine</b> <i> (September 2020 to present)</i>
 <br>Department of Anesthesiology
 <br>Brain Mechanisms of Pain and Health Laboratory
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.
+
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
 
 <b>Brain mechanisms supporting mindfulness-based chronic pain relief</b>:
 National Center for Complementary and Integrative Health-funded (5 R01 AT009693-05)
@@ -67,12 +67,16 @@ cannabis-induced acute and chronic pain relief. Current work includes:
   * Develop recruitment material, screening scripts, and RedCAP assessments
   * Collect data via psychophysical measures and MRI acquisition
   * Acquiring regulatory approvals
-
+  
+</details>
 
 <b>University of California San Diego</b> <i> (September 2020 to present)</i>
 <br>Psychedelic and Health Research Initiative
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; Cassandra Vieten, Ph.D.
+
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
 
 <b>Psilocybin-assisted therapy for phantom limb pain</b>:
 Pilot study exploring the effects of psilocybin on patients with amputated limbs. Responsibilities
@@ -85,11 +89,15 @@ on this project include:
   * Collect data via psychological assessments, quantitative sensory testing, and MRI acquisition
   * Analyze psychological and neuroimaging data
 
+ </details>
 
 <b>University of California San Diego</b> <i> (September 2020 to present)</i>
 <br>Sanford Institute of Empathy and Compassion
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; William Mobley, MD, Ph.D.
+
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
 
 <b>Mindfulness-Based Stress Reduction for victims of gun violence</b>:
 Pilot study that tested the effects of a Mindfulness-Based Stress Reduction program for victims
@@ -130,59 +138,65 @@ population. Activities include:
   * Automated screening and longitudinal data collection via ResearchMatch and RedCAP
   * Automated data cleaning, data analyzation, and figure creation via Python
   * Assisted in Institutional Review Board approvals in a timely fashion
+  
+  </details>
 
 <b>University of San Diego</b> <i> (November 2019 to September 2020)</i>
 <br>The Jacobs Institute of Innovation in Education
 <br> VisMO Laboratory
 <br><b>Role:</b> Research Assistant
+<br><b>Mentor:</b> Yaoran Li, Ph.D.
+
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
+  
+<b>Investigating the causal link between visuospatial skills and mathematics</b>:
+National Science Foundation-funded (#192082) project investigating the cognitive factors
+behind visuospatial skills and mathematics. Work in the lab included:
+  * Designed and conducted experiments with adult and children subjects
+  * Administered visuospatial and visuomotor assessments
+  * Created spatial vocabulary assessments for children
+  * Ran interventions designed to foster visuospatial skills in children
+  * Analyzed study results and prepared manuscripts
+  * First authored a meta-analysis investigating the link between visuomotor integration and 
+  academic achievement (under review)
+  
+ </details>
+  
+<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
+<br>Department of Psychology
+<br>Language and Development Laboratory
+<br><b>Role:</b> Research Assistant
 <br><b>Mentor:</b> David Barner, Ph.D.
 
-<b>Cognitive development of number acquisition</b>:
-National Science Foundation-funded (#192082) project investigating the cognitive factors
-behind visuospatial skills and mathematics. Work in the lab included:
-  * Designed and conducted experiments with adult and children subjects
-  * Administered visuospatial and visuomotor assessments
-  * Created spatial vocabulary assessments for children
-  * Ran interventions designed to foster visuospatial skills in children
-  * Analyzed study results and prepared manuscripts
-  * First authored a meta-analysis investigating the link between visuomotor integration and 
-  academic achievement (under review)
-  
-  
-<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
-<br>Department of Psychology
-<br>Language and Development Laboratory
-<br><b>Role:</b> Research Assistant
-<br><b>Mentor:</b> Yaoran Li, Ph.D.
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
 
-<b>Investigating the causal link between visuospatial skills and mathematics</b>:
-National Science Foundation-funded (#192082) project investigating the cognitive factors
-behind visuospatial skills and mathematics. Work in the lab included:
-  * Designed and conducted experiments with adult and children subjects
-  * Administered visuospatial and visuomotor assessments
-  * Created spatial vocabulary assessments for children
-  * Ran interventions designed to foster visuospatial skills in children
-  * Analyzed study results and prepared manuscripts
-  * First authored a meta-analysis investigating the link between visuomotor integration and 
-  academic achievement (under review)
-  
-<b>University of California, San Diego</b> <i> (August 2019 to September 2020)</i>
-<br>Department of Psychology
-<br>Language and Development Laboratory
-<br><b>Role:</b> Research Assistant
-<br><b>Mentor:</b> Yaoran Li, Ph.D.
-
-<b>Investigating the causal link between visuospatial skills and mathematics</b>:
-National Science Foundation-funded (#192082) project investigating the cognitive factors
-behind visuospatial skills and mathematics. Work in the lab included:
-  * Designed and conducted experiments with adult and children subjects
-  * Administered visuospatial and visuomotor assessments
-  * Created spatial vocabulary assessments for children
-  * Ran interventions designed to foster visuospatial skills in children
-  * Analyzed study results and prepared manuscripts
-  * First authored a meta-analysis investigating the link between visuomotor integration and 
-  academic achievement (under review)
+<b>Cognitive development of number acquisition/b>:
+Project investigating children’s use of one-to-one correspondence in learning how to count.
+Work in the lab included:
+  * Recruited and scheduled study appointments
+  * Ran experimental protocols on children subjects
+  * Collected, coded, and entered data
+  * Created infographics and newsletters to communicate research projects to parents
  
+</details>
+  
+<b>UUniversity of Sydney</b> <i> (June 2017 to August 2017)</i>
+<br>Brain and Mind Centre
+<br>Gambling Treatment and Research Clinic
+<br><b>Role:</b> Research Assistant
+<br><b>Mentor:</b> Alex Blaszczynski, Ph.D.
+
+<details markdown=block>
+<summary markdown=span>**Projects**</summary>
+
+<b>Relations between gambling disorder and crime/b>:
+Project exploring the association between gambling addictions and crime. Work in the lab
+included:
+  * Researched the nature of gambling disorder and its relation to income-producing crimes
+  * Contributed to a published systematic review on gambling disorder and crime
+  * Shadowed various laboratories across the clinic
  
 </details>
   
