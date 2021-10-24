@@ -12,10 +12,9 @@ Education
 <b>University of California, Berkeley</b><br>
 Bachelor of Arts Degree in Psychology, May 2018
 
->**publications**
-
+<large>
 <details markdown=block>
-<summary markdown=span>Research experience</summary>
+<summary markdown=span><b>Research experience</b></summary>
  
 ======
 <b>University of California San Diego School of Medicine</b> <i> (September 2020 to present)</i>
