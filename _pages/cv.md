@@ -182,7 +182,7 @@ Work in the lab included:
  
 </details>
   
-<b>UUniversity of Sydney</b> <i> (June 2017 to August 2017)</i>
+<b>University of Sydney</b> <i> (June 2017 to August 2017)</i>
 <br>Brain and Mind Centre
 <br>Gambling Treatment and Research Clinic
 <br><b>Role:</b> Research Assistant
@@ -191,7 +191,7 @@ Work in the lab included:
 <details markdown=block>
 <summary markdown=span>**Projects**</summary>
 
-<b>Relations between gambling disorder and crime/b>:
+<b>Relations between gambling disorder and crime</b>:
 Project exploring the association between gambling addictions and crime. Work in the lab
 included:
   * Researched the nature of gambling disorder and its relation to income-producing crimes
