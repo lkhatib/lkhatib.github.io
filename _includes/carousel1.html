@@ -1,9 +1,9 @@
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 
-<div class="carousel1__holder">
+<div class="carousel__holder">
     <div class="carousel1">
-        {% for item in site.data.carousel.images %}
+        {% for item in site.data.carousel1.images %}
           <input class="carousel1__activator" type="radio" name="carousel1" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
         {% for item in site.data.carousel1.images %}
