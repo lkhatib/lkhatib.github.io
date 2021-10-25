@@ -1,12 +1,12 @@
 {% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 
-<div class="carousel__holder">
-    <div class="carousel">
+<div class="carousel1__holder">
+    <div class="carousel1">
         {% for item in site.data.carousel.images %}
-          <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
+          <input class="carousel1__activator" type="radio" name="carousel1" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
-        {% for item in site.data.carousel.images %}
+        {% for item in site.data.carousel1.images %}
           {% if forloop.index == forloop.length %}
             {% assign nextindex = 0 %}
           {% else %}
@@ -19,29 +19,29 @@
             {% assign previndex = forloop.index0 | minus: 1 %}
           {% endif %}
           {% assign prevletter = letters[previndex] %}
-          <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="{{ prevletter }}"></label>
-              <label class="carousel__control carousel__control--forward" for="{{ nextletter }}"></label>
+          <div class="carousel1__controls">
+              <label class="carousel1__control carousel1__control--backward" for="{{ prevletter }}"></label>
+              <label class="carousel1__control carousel1__control--forward" for="{{ nextletter }}"></label>
           </div>
         {% endfor %}
-        <div class="carousel__track">
+        <div class="carousel1__track">
           <ul>
-            {% for item in site.data.carousel.images %}
-            <li class="carousel__slide" style="background-image: url('{{ item.image }}');"></li>
+            {% for item in site.data.carousel1.images %}
+            <li class="carousel1__slide" style="background-image: url('{{ item.image }}');"></li>
             {% endfor %}
           </ul>
         </div>
-        <div class="carousel__indicators">
-            {% for item in site.data.carousel.images %}
-              <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
+        <div class="carousel1__indicators">
+            {% for item in site.data.carousel1.images %}
+              <label class="carousel1__indicator" for="{{ letters[forloop.index0] }}"></label>
             {% endfor %}
         </div>
     </div>
 </div>
 
 <style>
-.carousel__holder {width: 100%; position: relative; padding-bottom: {{ include.height }}{{ include.unit }}; margin: 1rem 0 1rem;}
-.carousel {
+.carousel1__holder {width: 100%; position: relative; padding-bottom: {{ include.height }}{{ include.unit }}; margin: 1rem 0 1rem;}
+.carousel1 {
   height: 100%;
   width: 100%;
   overflow: hidden;
