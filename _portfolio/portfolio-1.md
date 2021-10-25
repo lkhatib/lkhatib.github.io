@@ -1,5 +1,5 @@
 ---
-title: "Travel Photography"
+title: "New Zealand"
 excerpt: "My year in New Zealand <br>  {% include carousel.html height='25' unit='%' duration='7' %}"
 collection: portfolio
 ---
