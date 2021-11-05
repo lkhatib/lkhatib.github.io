@@ -226,9 +226,10 @@ Clinical Experience
 Publications
 ======
   
-Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
-  
 <b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (in press) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. <i> Educational Research Review </i>
+  
+Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
+
   
 Manuscripts under review
 ======
@@ -245,7 +246,9 @@ Manuscripts in preparation
 Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) No Self, No Pain: Mindfulness meditation induced pain relief is driven by thalamic – precunal decoupling. <i>In preparation.</i>
 
 Vieten C., Sprengel M., Rubanovich C., Vahidi P., <b>Khatib L.,</b> Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
-
+  
+Ridgley L., Khatib L., Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. In preparation. 
+  
   
 Conference poster presentations
 ======
