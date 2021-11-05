@@ -247,7 +247,7 @@ Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jun
 
 Vieten C., Sprengel M., Rubanovich C., Vahidi P., <b>Khatib L.,</b> Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
   
-Ridgley L., Khatib L., Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. In preparation. 
+Ridgley L., <b> Khatib L.,</b> Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. <i>In preparation.</i> 
   
   
 Conference poster presentations
