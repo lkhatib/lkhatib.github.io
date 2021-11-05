@@ -3,7 +3,8 @@ title: "Meta-analysis on the Relation between Visuomotor Integration and Academi
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
-#date: 2021-11-04
+date: 2021-11-04
+venue: 'Educational Research Review'
 paperurl: 'Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.pdf'
 citation: 'Khatib, L., Li, Y., Geary, D., Popov, V., (2021). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>. (Revisions submitted).'
 ---
