@@ -155,8 +155,8 @@ National Science Foundation-funded (#192082) project investigating the cognitive
 behind visuospatial skills and mathematics. Work in the lab included:
   * Designed and conducted experiments with adult and children subjects
   * Administered visuospatial and visuomotor assessments
-  * Created spatial vocabulary assessments for children
   * Ran interventions designed to foster visuospatial skills in children
+  * Developed and validated a spatial vocabulary assessment
   * Analyzed study results and prepared manuscripts
   * First authored a meta-analysis investigating the link between visuomotor integration and 
   academic achievement (under review)
@@ -228,12 +228,12 @@ Publications
   
 Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
   
+<b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (in press) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. <i> Educational Research Review </i>
+  
 Manuscripts under review
 ======
 
 <b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2021) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. <i> Under review.</i>
-
-<b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (2021) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. <i> Under review.</i>
 
 Manuscripts in preparation
 ======
