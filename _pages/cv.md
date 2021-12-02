@@ -29,9 +29,9 @@ randomized clinical trial investigating the brain mechanisms supporting the dire
 of chronic low back pain by mindfulness meditation as compared to placebo-mindfulness
 meditation. Activities on this project include but are not limited to:
   <ul>
-  * Designing the experiment
-  * Data collection via quantitative sensory testing
-  * Psychophysical procedure of the radiculopathy inducing straight leg raise test
+  <li>Designing the experiment</li>
+  <li>Data collection via quantitative sensory testing</li>
+  <li>Psychophysical procedure of the radiculopathy inducing straight leg raise test</li>
   * Certified MRI scanner technician
   * Supervise therapeutic interventions
   * Mentored and trained lab personnel to perform data collection
