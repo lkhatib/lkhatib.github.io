@@ -28,7 +28,8 @@ National Center for Complementary and Integrative Health-funded (5 R01 AT009693-
 randomized clinical trial investigating the brain mechanisms supporting the direct attenuation
 of chronic low back pain by mindfulness meditation as compared to placebo-mindfulness
 meditation. Activities on this project include but are not limited to:
-  - Designing the experiment
+  <ul>
+  <li> Designing the experiment</li>
   - Data collection via quantitative sensory testing
   * Psychophysical procedure of the radiculopathy inducing straight leg raise test
   * Certified MRI scanner technician
@@ -37,7 +38,7 @@ meditation. Activities on this project include but are not limited to:
   * General linear modeling of behavioral data
   * Functional brain imaging analyses
   * Patient recruitment and screening
-
+</ul>
 <b>The role of endogenous opioids in mindfulness-based chronic pain relief</b>:
 National Center for Complementary and Integrative Health-funded (5 R21 AT010352-02)
 randomized clinical trial determining if mindfulness-based chronic pain relief is mediated by
