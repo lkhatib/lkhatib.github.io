@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2021-11-04
 venue: 'Educational Research Review'
-paperurl: 'Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.pdf'
+paperurl: 'Meta_analysis_Visuomotor_Integration_and_Academic_Achievement.pdf'
 citation: '<b> Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (in press). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>.'
 ---
 <b>Abstract</b> Visuomotor integration (VMI) is the ability to coordinate visual perception and motor
@@ -21,6 +21,6 @@ of the relation between VMI and mathematics achievement, whereas educational sta
 subdomains of reading skills were significant moderators of the relation between VMI and
 reading achievement. Implications and future research directions are discussed.
 
-[Download paper here](http://lkhatib.github.io/files/Meta analysis on the Relation between Visuomotor Integration and Academic Achievement Role of Educational Stage and Disability.pdf)
+[Download paper here](http://lkhatib.github.io/files/Meta_analysis_Visuomotor_Integration_and_Academic_Achievement.pdf)
 
 Recommended citation: Khatib, L., Li, Y., Geary, D., Popov, V., (2021). &quot;Meta-analysis on the Relation between Visuomotor Integration and Academic Achievement- Role of Educational Stage and Disability.&quot; <i>Educational Research Review</i>. (Revisions submitted)'
