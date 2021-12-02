@@ -174,7 +174,7 @@ behind visuospatial skills and mathematics. Work in the lab included:
 <details markdown=block>
 <summary markdown=span>**Projects**</summary>
 
-<b>Cognitive development of number acquisition/b>:
+<b>Cognitive development of number acquisition</b>:
 Project investigating children’s use of one-to-one correspondence in learning how to count.
 Work in the lab included:
   * Recruited and scheduled study appointments
@@ -224,6 +224,7 @@ Clinical Experience
   * Assisted with office duties such as record keeping and data entry
 </small>
    
+<br>
 
 Publications
 ======
@@ -232,11 +233,14 @@ Publications
   
 Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
 
+<br>
   
 Manuscripts under review
 ======
 
 <b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2021) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. <i> Under review.</i>
+
+<br>
 
 Manuscripts in preparation
 ======
@@ -247,11 +251,12 @@ Manuscripts in preparation
 
 Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) No Self, No Pain: Mindfulness meditation induced pain relief is driven by thalamic – precunal decoupling. <i>In preparation.</i>
 
-Vieten C., Sprengel M., Rubanovich C., Vahidi P., <b>Khatib L.,</b> Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
+Vieten C., Sprengel M., <b>Khatib L.,</b> Rubanovich C., Vahidi P., Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
   
 Ridgley L., <b> Khatib L.,</b> Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. <i>In preparation.</i> 
   
-  
+<br>
+
 Conference poster presentations
 ======
 
@@ -261,6 +266,7 @@ Riegner G., Posey G., Oliva V., <b> Khatib, L.,</b> Baumgartner J., Kraft R., Ju
 
 Dean J., Posey G., Riegner G., <b> Khatib, L.,</b> Oliva V., Baumgartner J., Jung Y., Kraft R., Zeidan F., Mindfulness meditation-induced stress reductions predict pain relief, (November, 2021). Society for Neuroscience annual meeting.
   
+ <br>
 
 Scholarships
 ======
@@ -270,6 +276,7 @@ Awarded $3,000 to participate in research and study abroad at the University of 
 <b> Berkeley Undergraduate Scholarship </b> (2014 to 2018)          
 Scholarship granted to UC Berkeley students based on academic merit and financial need
 
+<br>
 
 Activities
 ======
@@ -291,7 +298,8 @@ Member of the Getting into Graduate School program, an organization aimed to enc
 <b> Educational Opportunity Program </b> (August 2014 to May 2018)<br>
 Member of the Educational Opportunity Program, a program providing guidance and support for first-generation, low-income, and underrepresented students
 
-  
+<br>
+
 Skills
 ======
 
