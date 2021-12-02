@@ -30,15 +30,15 @@ of chronic low back pain by mindfulness meditation as compared to placebo-mindfu
 meditation. Activities on this project include but are not limited to:
   
  <ul style="list-style-type:disc">
-  <li><BLOCKQUOTE> Designing the experiment</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Data collection via quantitative sensory testing</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Psychophysical procedure of the radiculopathy inducing straight leg raise test</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Certified MRI scanner technician</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Supervise therapeutic interventions</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Mentored and trained lab personnel to perform data collection</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> General linear modeling of behavioral data</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Functional brain imaging analyses</li></BLOCKQUOTE>
-  <li><BLOCKQUOTE> Patient recruitment and screening</li></BLOCKQUOTE>
+  <li><BLOCKQUOTE> Designing the experiment</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Data collection via quantitative sensory testing</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Psychophysical procedure of the radiculopathy inducing straight leg raise test</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Certified MRI scanner technician</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Supervise therapeutic interventions</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Mentored and trained lab personnel to perform data collection</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> General linear modeling of behavioral data</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Functional brain imaging analyses</BLOCKQUOTE></li>
+  <li><BLOCKQUOTE> Patient recruitment and screening</BLOCKQUOTE></li>
 </ul>
   
 <b>The role of endogenous opioids in mindfulness-based chronic pain relief</b>:
