@@ -29,17 +29,16 @@ randomized clinical trial investigating the brain mechanisms supporting the dire
 of chronic low back pain by mindfulness meditation as compared to placebo-mindfulness
 meditation. Activities on this project include but are not limited to:
   
- <ul style="list-style-type:disc">
-  <BLOCKQUOTE><li>Designing the experiment</li><BR>
-  <li>Data collection via quantitative sensory testing</li><BR>
-  <li>Psychophysical procedure of the radiculopathy inducing straight leg raise test</li><BR>
-  <li>Certified MRI scanner technician</li><BR>
-  <li>Supervise therapeutic interventions</li><BR>
-  <li>Mentored and trained lab personnel to perform data collection</li><BR>
-  <li>General linear modeling of behavioral data</li><BR>
-  <li>Functional brain imaging analyses</li><BR>
-  <li>Patient recruitment and screening</li></BLOCKQUOTE>
-</ul>
+  * Designing the experiment
+  * Data collection via quantitative sensory testing
+  * Psychophysical procedure of the radiculopathy inducing straight leg raise test
+  * Certified MRI scanner technician
+  * Supervise therapeutic interventions
+  * Mentored and trained lab personnel to perform data collection
+  * General linear modeling of behavioral data
+  * Functional brain imaging analyses
+  * Patient recruitment and screening
+
   
 <b>The role of endogenous opioids in mindfulness-based chronic pain relief</b>:
 National Center for Complementary and Integrative Health-funded (5 R21 AT010352-02)
