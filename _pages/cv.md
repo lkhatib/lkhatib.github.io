@@ -229,6 +229,8 @@ Clinical Experience
 Publications
 ======
   
+<b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2022) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. <i> Mindfulness. </i> https://doi.org/10.1007/s12671-022-01858-y
+
 <b>Khatib, L.,</b> Li, Y., Geary, D., Popov, V., (in press) Meta-analysis on the relations between visuomotor integration and academic achievement: Effects of educational stage and disability. <i> Educational Research Review </i>
   
 Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski, A. (2019). Crime and gambling disorders: A systematic review. <i> Journal of gambling studies,</i> 35(2), 395-414.
@@ -238,7 +240,7 @@ Adolphe, A., <b>Khatib, L.,</b> van Golde, C., Gainsbury, S. M., & Blaszczynski,
 Manuscripts under review
 ======
 
-<b>Khatib, L.,</b> Riegner G., Dean J., Oliva V., Cruanes G., Zeidan F., (2021) The effects of mindfulness-based stress reduction on trauma in victims of gun violence: A pilot study. <i> Under review.</i>
+Oliva V., Baumgartner J., Farris S.R., Riegner G., <b>Khatib, L.,</b> Jung Y., Coghill R.C., Zeidan F., (2022) Neural and psychological mechanisms supporting the relationship between resting breathing rate and pain sensitivity in healthy volunteers. <i>Under review.</i>
 
 <br>
 
