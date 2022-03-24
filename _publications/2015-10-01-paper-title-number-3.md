@@ -2,9 +2,11 @@
 title: "The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Manuscript submitted to <i>Mindfulness</i> (Under review)'
+excerpt: ''
+date: 2022-22-03
+venue: 'Mindfulness'
 paperurl: 'http://lkhatib.github.io/files/Mindfulness-Based_Stress_Reduction_Trauma_Victims_Gun_Violence.pdf'
-citation: '<b>Khatib, L.,</b> Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2021). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>. (Under review).'
+citation: '<b>Khatib, L.,</b> Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2022). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>, https://doi.org/10.1007/s12671-022-01858-y![image](https://user-images.githubusercontent.com/92958149/159999680-6a88a723-4211-4ea9-b8ec-6dffa769e661.png)'
 ---
 <b>Abstract</b> Objectives: Gun violence is one of the most significant problems in the United States of America (USA). It is responsible for killing approximately 35,000 Americans per year and was the third leading cause of death for children in the USA from 2010 to 2019. Gun violence produces lifelong psychological adversity, posttraumatic stress and grief. In the face of this epidemic, efficacious self-regulatory therapies that assuage gun violence-based trauma and negative health are lacking. The proposed pilot study examined the effects of an 8-week Mindfulness-Based Stress Reduction (MBSR) program on traumatized individuals as a direct consequence of gun violence. It was hypothesized that MBSR would significantly lower trauma and corresponding comorbidities. It was also predicted that the benefits of MBSR would be significantly stronger from baseline to five and eight weeks of training.
 Methods: Twenty-four grieving individuals completed a battery of psychological assessments before, after five, and eight-weeks of MBSR training, respectively. 
@@ -13,4 +15,4 @@ Conclusions: The present findings should be interpreted with caution because the
 
 [Download paper here](http://lkhatib.github.io/files/Mindfulness-Based_Stress_Reduction_Trauma_Victims_Gun_Violence.pdf)
 
-Recommended citation: Khatib, L., Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2021). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>. (Under review).
+Recommended citation: Khatib, L., Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2021). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>, https://doi.org/10.1007/s12671-022-01858-y![image](https://user-images.githubusercontent.com/92958149/159999706-4a21437f-5b77-4a31-bb3f-9c2c11c89ef0.png)
