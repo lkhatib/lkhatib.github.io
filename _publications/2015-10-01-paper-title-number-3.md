@@ -15,4 +15,4 @@ Conclusions: The present findings should be interpreted with caution because the
 
 [Download paper here](http://lkhatib.github.io/files/Mindfulness-Based_Stress_Reduction_Trauma_Victims_Gun_Violence.pdf)
 
-Recommended citation: Khatib, L., Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2021). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>, https://doi.org/10.1007/s12671-022-01858-y
+Recommended citation: Khatib, L., Riegner, G., Dean, J., Oliva, V., Cruanes, G., Zeidan, F., (2022). &quot;The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study.&quot; <i>Mindfulness</i>, https://doi.org/10.1007/s12671-022-01858-y
