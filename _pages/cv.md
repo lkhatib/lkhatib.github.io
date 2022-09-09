@@ -242,6 +242,8 @@ Manuscripts under review
 
 Oliva V., Baumgartner J., Farris S.R., Riegner G., <b>Khatib, L.,</b> Jung Y., Coghill R.C., Zeidan F., (2022) Neural and psychological mechanisms supporting the relationship between resting breathing rate and pain sensitivity in healthy volunteers. <i>Under review.</i>
 
+<b>Khatib L.,</b> Mosbey D., Dean J., Riegner G., Oliva V., Zeidan F., (2022) Mindfulness training reduces aggression and improves well-being in highly stressed law enforcement officers. <i>Under review.</i>
+
 <br>
 
 Manuscripts in preparation
@@ -251,8 +253,6 @@ Manuscripts in preparation
 
 <b>Khatib L.,</b> Riegner G., Oliva V.,  Dean J., Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) Resting-state connectivity associated with meditation-induced depressive mood reductions. <i>In preparation.</i>
 
-Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) No Self, No Pain: Mindfulness meditation induced pain relief is driven by thalamic – precunal decoupling. <i>In preparation.</i>
-
 Vieten C., Sprengel M., <b>Khatib L.,</b> Rubanovich C., Vahidi P., Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
   
 Ridgley L., <b> Khatib L.,</b> Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. <i>In preparation.</i> 
@@ -261,6 +261,14 @@ Ridgley L., <b> Khatib L.,</b> Li Y., (2021) Development and Validation of a Spa
 
 Conference poster presentations
 ======
+
+<b>Khatib, L.,</b> Dean J., Gonzalez N., Oliva V., Riegner G., Birenbaum J., Ross J., Cruanes G., Reyes M., Hollenbeck N., Nazir Z., Lopez C., Allen A., Jampana N., Fuentes R., Dang T., Kim H., Patterson M., Miller J., Wallace M., Chakravarthy K., Zeidan F., Mindfulness meditation directly reduces acutely exacerbated chronic back pain through non-opioidergic mechanisms, (November, 2022). Poster presentation accepted for the Society for Neuroscience Annual Meeting.
+
+Oliva V., Riegner G., <b>Khatib, L.,</b> Dean J., Ross J., Lopez C., Allen A., Barrows D., Uvarova A., Reyes M., Fuentes R., Mosbey D., Linares L., Mobley W., Zeidan F., I fear your pain: the role of the amygdala in human empathy, (November, 2022). Poster presentation accepted for the Society for Neuroscience Annual Meeting.
+
+Oliva V., Baumgartner J., Farris S. R., Riegner G., <b>Khatib, L.,</b> Jung Y., Coghill R. C., Zeidan F., Slower respiration rate predicts lower pain sensitivity and greater supramarginal gyrus activation, (May, 2022). United States Association for the Study of Pain annual meeting.
+
+Dean J., Riegner G., Posey G., Oliva V., <b>Khatib, L.,</b> Jung Y., Wager T., Zeidan F., Mindfulness meditation modulates nociceptive-specific but not placebo-related pain-predictive patterns, (May, 2022). United States Association for the Study of Pain annual meeting.
 
 <b>Khatib, L.,</b> Oliva V., Riegner G., Posey G., Dean J., Baumgartner J., Jung Y., Kraft R., Birenbaum J., Zeidan F., Weaker resting-state ventromedial prefrontal cortex-amygdala connectivity is associated with mindfulness meditation-induced depressive mood reductions, (November, 2021). Society for Neuroscience annual meeting
   
@@ -272,6 +280,10 @@ Dean J., Posey G., Riegner G., <b> Khatib, L.,</b> Oliva V., Baumgartner J., Jun
 
 Scholarships
 ======
+
+<b>US Association for the Study of Pain Diversity Equity and Inclusion Scholarship </b> (2022)<br>
+Awarded free full registration and housing for the 2022 Annual Scientific Meeting
+
 <b>Benjamin A. Gilman International Scholarship </b> (2017)<br>
 Awarded $3,000 to participate in research and study abroad at the University of Sydney 
 
@@ -282,7 +294,10 @@ Scholarship granted to UC Berkeley students based on academic merit and financia
 
 Activities
 ======
-<b> Disaster Accountability Project </b> (March 2021 to present)             
+<b>Polygence Mentor </b> (June 2022 to present)
+One-on-one mentor for high school students interested in neuroscience research
+
+<b> Disaster Accountability Project </b> (March 2021 to July 2022)             
 Volunteer for a project aiming to expand and improve access to the Coronavirus vaccine for low-income, minority communities
 
 <b>Autism Spectrum at Cal</b> (August 2016 to May 2018)    
