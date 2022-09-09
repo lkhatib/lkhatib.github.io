@@ -294,7 +294,7 @@ Scholarship granted to UC Berkeley students based on academic merit and financia
 
 Activities
 ======
-<b>Polygence Mentor </b> (June 2022 to present)
+<b>Polygence Mentor </b> (June 2022 to present)<br>
 One-on-one mentor for high school students interested in neuroscience research
 
 <b> Disaster Accountability Project </b> (March 2021 to July 2022)             
