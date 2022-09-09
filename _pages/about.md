@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Technician at the [Brain Mechanisms of Pain and Health Laboratory](https://zeidanlab.weebly.com/) at UC San Diego. We use various neuroimaging and pharmacological methodologies to investigate the neural mechanisms underlying the effects of mindfulness meditation and psychedelics on well-being.
-
-I graduated from UC Berkeley with a bachelor's in psychology and have been working in human subject research for the past two years. My research experience is in behavioral neuroscience, cognitive science, and educational psychology. I aspire to pursue a PhD and use my curiosity for the human brain to discover integrative approaches to improving mental health. 
+I am a Ph.D. student in the Neuroscience Graduate Program at UC San Diego. I graduated from UC Berkeley with a bachelor's in psychology and have worked in human subject research for the past three years. In my previous work, I used various neuroimaging and pharmacological methodologies to investigate the neural mechanisms underlying the effects of mindfulness meditation and psychedelics on well-being. Through my graduate studies, I aspire to continue using my curiosity about the human brain to discover innovative approaches to improving mental health. 
