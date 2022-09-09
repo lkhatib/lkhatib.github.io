@@ -14,7 +14,7 @@ Bachelor of Arts Degree in Psychology, May 2018
 
 Research experience
 ======
-<b>University of California San Diego School of Medicine</b> (September 2020 to present)
+<b>University of California San Diego School of Medicine</b> (September 2020 to July 2022)
 <br>Department of Anesthesiology
 <br>Brain Mechanisms of Pain and Health Laboratory
 <br><b>Role:</b> Senior Research Technician
@@ -72,7 +72,7 @@ cannabis-induced acute and chronic pain relief. Current work includes:
   
 </details>
 
-<b>University of California San Diego</b> (September 2020 to present)
+<b>University of California San Diego</b> (September 2020 to July 2022)
 <br>Psychedelic and Health Research Initiative
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; Cassandra Vieten, Ph.D.
@@ -93,7 +93,7 @@ on this project include:
 
  </details>
 
-<b>University of California San Diego</b> (September 2020 to present)
+<b>University of California San Diego</b> (September 2020 to July 2022)
 <br>Sanford Institute of Empathy and Compassion
 <br><b>Role:</b> Senior Research Technician
 <br><b>Mentor:</b> Fadel Zeidan, Ph.D.; William Mobley, MD, Ph.D.
@@ -249,13 +249,13 @@ Oliva V., Baumgartner J., Farris S.R., Riegner G., <b>Khatib, L.,</b> Jung Y., C
 Manuscripts in preparation
 ======
 
-<b>Khatib L.,</b> Dean J., Riegner G., Oliva V., Gonzalez N., Birenbaum J., Zeidan F., (2021)  The role of endogenous opioids in mindfulness meditation-induced chronic low back pain relief as compared to sham-mindfulness meditation. <i>In preparation.</i>
+<b>Khatib L.,</b> Dean J., Riegner G., Oliva V., Gonzalez N., Birenbaum J., Zeidan F., (2022)  The role of endogenous opioids in mindfulness meditation-induced chronic low back pain relief as compared to sham-mindfulness meditation. <i>In preparation.</i>
 
-<b>Khatib L.,</b> Riegner G., Oliva V.,  Dean J., Baumgartner J., Kraft R., Jung Y., Zeidan F., (2021) Resting-state connectivity associated with meditation-induced depressive mood reductions. <i>In preparation.</i>
+<b>Khatib L.,</b> Riegner G., Oliva V.,  Dean J., Baumgartner J., Kraft R., Jung Y., Zeidan F., (2022) Resting-state connectivity associated with meditation-induced depressive mood reductions. <i>In preparation.</i>
 
-Vieten C., Sprengel M., <b>Khatib L.,</b> Rubanovich C., Vahidi P., Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2021) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
+Vieten C., Sprengel M., <b>Khatib L.,</b> Rubanovich C., Vahidi P., Polizzi C., Malaktaris A., Chu G., Lang A., Tai-Seale M., Eyler L., Bloss B., (2022) Measures of empathy and compassion: A scoping review. <i>In preparation.</i>
   
-Ridgley L., <b> Khatib L.,</b> Li Y., (2021) Development and Validation of a Spatial Vocabulary Assessment. <i>In preparation.</i> 
+Ridgley L., <b> Khatib L.,</b> Li Y., (2022) Development and Validation of a Spatial Vocabulary Assessment. <i>In preparation.</i> 
   
 <br>
 
