@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Mindfulness-Based Stress Reduction on Trauma in Victims of Gun Violence: A Pilot Study"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-3.md
 excerpt: ''
 date: 2022-22-03
 venue: 'Mindfulness'
