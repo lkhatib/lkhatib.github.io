@@ -207,7 +207,7 @@ included:
 Clinical Experience
 ======
   
-<b>Clinical Coordination</b> (September 2020 to present)
+<b>Clinical Coordination</b> (September 2020 to July 2022)
 <br>University of California San Diego School of Medicine
 <small>
   * Work daily over the phone and in person with a diverse range of patients including chronic back pain, cancer, phantom limb, and awake craniotomy patients
